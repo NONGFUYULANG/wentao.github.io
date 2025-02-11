@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Wentao 23333"
+title                    : "Wentao 2333"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -22,14 +22,24 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Personal.png"
+  avatar           : "profile.png"
   name             : "Wentao Liu"
-  location         : "China"
-  employer         : "Polyu"
+  location         : "Earth"
+  employer         : "The Hong kong Polytechinc University"
+  uri              : # URL
   email            : "2598536686@qq.com" 
 
+ 
+  # Repositories and software development
+  bitbucket        : # Username - Update with your username on the site
+  codepen          : # Username
+  dribbble         : # Username
+  github           : "academicpages"
+  kaggle           : # Username  
+  stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
+
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
