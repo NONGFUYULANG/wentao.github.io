@@ -19,7 +19,7 @@ Papers
 2. GenesisScene: Procedural Content Generation Guided by Large Vision LanguageModels
 
 Experience
-------
+======
 I. Microsoft Research Asia – Large Model Application Research: Model Training and Optimization Based on ARC-AGI Business
 September 2024 – Present
 ------
